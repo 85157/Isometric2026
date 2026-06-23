@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f8de4c3d86a32e74ab9835d876167230
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209180
+  packageName: Vector Forest Scenery
+  packageVersion: 1.1
+  assetPath: Assets/ccadori/Vector Forest Scenery/Runtime/com.ccadori.vectorforestscenery.Runtime.asmdef
+  uploadId: 549723

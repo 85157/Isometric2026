@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cfb0603d58e0f2e4cade5f0874804574
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209180
+  packageName: Vector Forest Scenery
+  packageVersion: 1.1
+  assetPath: Assets/ccadori/Vector Forest Scenery/Runtime/Utils/Wind.cs
+  uploadId: 549723

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7238928c0a1dbf348bc2728558202c9d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209180
+  packageName: Vector Forest Scenery
+  packageVersion: 1.1
+  assetPath: Assets/ccadori/Vector Forest Scenery/Demo/Runtime/InteractionButton.cs
+  uploadId: 549723

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{531A0A96-66EB-8323-5676-E0683C1065DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.ccadori.vectorforestscenerydemo.Runtime", "com.ccadori.vectorforestscenerydemo.Runtime.csproj", "{36AC4221-9CC0-3AD0-E781-F59673E0BCC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{43248C31-669D-0823-4E4C-8671E362EA56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.ccadori.vectorforestscenery.Runtime", "com.ccadori.vectorforestscenery.Runtime.csproj", "{40DA20F0-A05E-15A4-8428-5417FE1D23F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{531A0A96-66EB-8323-5676-E0683C1065DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{531A0A96-66EB-8323-5676-E0683C1065DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{531A0A96-66EB-8323-5676-E0683C1065DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{531A0A96-66EB-8323-5676-E0683C1065DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36AC4221-9CC0-3AD0-E781-F59673E0BCC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36AC4221-9CC0-3AD0-E781-F59673E0BCC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36AC4221-9CC0-3AD0-E781-F59673E0BCC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36AC4221-9CC0-3AD0-E781-F59673E0BCC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43248C31-669D-0823-4E4C-8671E362EA56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43248C31-669D-0823-4E4C-8671E362EA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43248C31-669D-0823-4E4C-8671E362EA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43248C31-669D-0823-4E4C-8671E362EA56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40DA20F0-A05E-15A4-8428-5417FE1D23F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40DA20F0-A05E-15A4-8428-5417FE1D23F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40DA20F0-A05E-15A4-8428-5417FE1D23F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40DA20F0-A05E-15A4-8428-5417FE1D23F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

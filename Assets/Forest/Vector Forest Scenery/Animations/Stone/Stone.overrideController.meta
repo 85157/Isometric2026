@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a5aec2e3055b183469e113f2dd7cf03a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209180
+  packageName: Vector Forest Scenery
+  packageVersion: 1.1
+  assetPath: Assets/ccadori/Vector Forest Scenery/Animations/Stone/Stone.overrideController
+  uploadId: 549723

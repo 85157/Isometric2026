@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2401074443d0306469f4427bef453fc1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209180
+  packageName: Vector Forest Scenery
+  packageVersion: 1.1
+  assetPath: Assets/ccadori/Vector Forest Scenery/Animations/Creature/Rabbit/Rabbit.overrideController
+  uploadId: 549723

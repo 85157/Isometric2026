@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2726816754dee3747ac695aa69296e9e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209180
+  packageName: Vector Forest Scenery
+  packageVersion: 1.1
+  assetPath: Assets/ccadori/Vector Forest Scenery/Animations/Tree/Tree.overrideController
+  uploadId: 549723
