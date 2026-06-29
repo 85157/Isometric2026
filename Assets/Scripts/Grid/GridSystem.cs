@@ -29,6 +29,7 @@ public class GridSystem : MonoBehaviour
 
     private float SelectorYOffset = 0.05f;
     private Vector3 currentGridPosition;
+    private Vector2 lastMousePos;
     private GameObject selectorObject;
     private Renderer[] selectorRenderers;   
     public Dictionary<Vector3, GameObject> PlacedPipes = new Dictionary<Vector3, GameObject>();
@@ -316,7 +317,7 @@ public class PlaceCommand : IBuildCommand
     {
         if (gridSystem.PlacedPipes.ContainsKey(position)) return;
 
-        spawnedObject = Object.Instantiate(prefab, position, Quaternion.identity);
+        spawnedObject = GameObject.Instantiate(prefab, position, Quaternion.identity);
         spawnedObject.tag = "PlacedObject";
         gridSystem.PlacedPipes.Add(position, spawnedObject);
 
